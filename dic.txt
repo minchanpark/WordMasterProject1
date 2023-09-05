@@ -1,1 +1,8 @@
-3|superintendent
+3|superintendent|관리자, 감독관
+1|apple|사과
+1|kiwi|키위
+1|car|자동차
+2|equipment|장비 물품
+2|executive|경영, 간부, 임원
+2|embarrassment|당황, 난처함
+2|publicity|명성, 평판, 널리 알려짐, 공표

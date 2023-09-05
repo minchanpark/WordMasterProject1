@@ -1,0 +1,4 @@
+3|superintendent|
+2|apple|
+1|kiwi|
+1|car|
