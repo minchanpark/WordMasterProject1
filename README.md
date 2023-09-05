@@ -23,5 +23,9 @@
 ### 실행화면
 #### 단어 추가 메뉴
 https://github.com/minchanpark/WordMasterProject1/assets/98529377/d501b818-df35-4412-ab2d-d398997e9310
-#### 
+#### 단어 리스트 출력 메뉴
+단어 리스트 출력 메뉴 실행화면에 다른 단어들이 있는 것은 파일 로드, 저장 코드까지 추가한 후에 실행했기 때문입니다. 위에서 추가했던 'man(level 1) 남자'이 제대로 들어가 있는 것을 볼 수 있습니다. 
+https://github.com/minchanpark/WordMasterProject1/assets/98529377/3b60d7ec-9e8c-47db-9659-989fc6d3598d
+
+
 
