@@ -62,6 +62,7 @@ public class WordCRUD implements ICRUD {
             System.out.print((i+1) + " ");
             System.out.println(list.get(i).toString());
             idlist.add(i);
+
             j++;
         }
         System.out.println("---------------------------------");
