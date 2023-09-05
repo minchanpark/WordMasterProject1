@@ -22,5 +22,6 @@
 
 ### 실행화면
 #### 단어 추가 메뉴
+https://github.com/minchanpark/WordMasterProject1/assets/98529377/d501b818-df35-4412-ab2d-d398997e9310
 
 
