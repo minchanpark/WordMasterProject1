@@ -28,9 +28,10 @@ public class WordManager {
     public void start(){
         wordCRUD.loadFile();
         while(true){
-            int menu=selectMenu();
 
-            if(menu==0){break;}
+            int menu = selectMenu();
+
+            if(menu == 0){break;}
 
             else if(menu==1){
                 wordCRUD.listAll();
