@@ -63,7 +63,7 @@ public class WordCRUD implements ICRUD {
         for(int i=0; i<list.size(); i++){
             String word = list.get(i).getWord().toLowerCase();
             if(!word.contains(keyword)) continue;
-            System.out.print((i+1) + " ");
+            System.out.print((j+1) + " ");
             System.out.println(list.get(i).toString());
             idlist.add(i);
 
@@ -113,7 +113,7 @@ public class WordCRUD implements ICRUD {
         s.nextLine();
 
         System.out.print("=> 정말로 삭제하시겠습니까?: ");
-        String ans = s.nextLine();
+        String ans = s.next();
         if(ans.equalsIgnoreCase("y")){
             list.remove((int)idlist.get(id-1));
             System.out.println("단어가 삭제되었습니다.");
