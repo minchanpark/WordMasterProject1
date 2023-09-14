@@ -56,7 +56,7 @@ https://github.com/minchanpark/WordMasterProject1/assets/98529377/0a1bf839-1484-
 https://github.com/minchanpark/WordMasterProject1/assets/98529377/320a1e7e-7555-4242-9fe1-6d31fea3e1d1
 
 -dictionary.txt에 있는 단어들을 test.txt로 복사해서 옮기는 작업을 시행합니
-#### 나가기 메뉴 
+#### 나가기 메뉴(메뉴 0번)
 https://github.com/minchanpark/WordMasterProject1/assets/98529377/80fe7e6a-42d0-464a-9c69-0b1b1baf286d
 
 -나가기 메뉴를 실행한 사진입니다
