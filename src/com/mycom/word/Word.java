@@ -1,12 +1,10 @@
 package com.mycom.word;
 
 public class Word {
-
     private int id;
     private int level;
     private String word;
     private String meaning;
-
     Word(){}
     Word(int id, int level, String word, String meaning){
         this.id=id;     //이름
@@ -57,6 +55,6 @@ public class Word {
         return str;
     }
     public String toFileString(){
-        return this.level+"|"+this.word+"|";
+        return this.level+"|"+this.word+"|"+this.meaning;
     }
 }

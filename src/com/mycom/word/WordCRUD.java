@@ -8,7 +8,7 @@ public class WordCRUD implements ICRUD {
     ArrayList<Word> list;
     Scanner s;
 
-    final String fname="dic.txt";
+    final String fname="dictionary.txt";
 
     WordCRUD(Scanner s){
         list=new ArrayList<>();
@@ -142,7 +142,6 @@ public class WordCRUD implements ICRUD {
             }
             br.close();
             System.out.println("===> " + count + "개 로딩 완료!!!");
-
         }
         catch(IOException e){
             e.printStackTrace();
@@ -151,7 +150,7 @@ public class WordCRUD implements ICRUD {
 
     public void saveFile(){
         try{
-            PrintWriter pr = new PrintWriter(new FileWriter("test.txt"));
+            PrintWriter pr = new PrintWriter(new FileWriter("my_dic.txt"));
             for(Word one : list){
                 pr.write(one.toFileString()+"\n");
             }
